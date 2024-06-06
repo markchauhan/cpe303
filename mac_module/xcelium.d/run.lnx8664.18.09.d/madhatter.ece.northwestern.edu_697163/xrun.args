@@ -1,0 +1,13 @@
+//
+// File created by:  xrun
+// Do not modify this file
+//
+-64bit
+-gui
+-access
+r
+-xmelab_args
+"-warnmax 0 -delay_mode zero-maxdelays"
+./Synthesis/mac_syn.v
+mac_test.v
+/vol/ece303/genus_tutorial/NangateOpenCellLibrary.v

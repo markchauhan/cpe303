@@ -1,0 +1,4 @@
+s1(06Jun2024:17:22:29):  xrun -64bit -gui -access r mac.v mac_test.v 
+s2(06Jun2024:17:22:59):  xrun -64bit -gui -access r mac.v mac_test.v 
+s3(06Jun2024:17:35:22):  xrun -64bit -gui -access r -xmelab_args "-warnmax (
+s4(06Jun2024:17:52:12):  xrun -64bit -gui -access r -xmelab_args "-warnmax 0 -delay_mode zero-maxdelays" ./Synthesis/mac_syn.v mac_test.v /vol/ece303/genus_tutorial/NangateOpenCellLibrary.v 
